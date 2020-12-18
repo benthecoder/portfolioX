@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Pubic folder 
+public
+
+# macos ds store
+.DS_Store
