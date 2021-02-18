@@ -3,7 +3,7 @@ slug: about
 title: About Me
 ---
 
-I am a contributing writer to Towards Data Science, Better Programming, and Startup publication on Medium. My articles have over 950k views and I have over 2k followers. 
+I am a contributing writer to Towards Data Science, Better Programming, and Startup publication on Medium. My articles have over 886.72K views and I have over 2k followers. 
 
 I'm currently pursuing a Statistics Bachelor's degree in the American Degree Transfer Program at INTI Subang and will be transferring to Iowa State University in Fall 2021. 
 

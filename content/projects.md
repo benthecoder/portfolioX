@@ -1,8 +1,6 @@
 ---
-title: "Projects"
 slug: projects
+title: Projects
 ---
 
-## [John Hopkins Data Science Specialization Coursera](https://benthecoder.github.io/JohnHopkinsDataScience/)
-Repository for my code for the course John Hopkins Data Science Specialization
-
+Projects are on my GitHub!
