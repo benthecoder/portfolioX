@@ -70,7 +70,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Medium"
     icon = "fa fa-medium"
     weight = 1
-    url = "https://medium.com/@benthecoder07"
+    url = "https://benedictxneo.medium.com/"
 [[params.social]]
     name = "Github"
     icon = "fa fa-github"
